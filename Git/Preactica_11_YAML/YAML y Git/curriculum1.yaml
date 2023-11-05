@@ -1,0 +1,49 @@
+informacion_personal:
+  nombre: ierdna
+  direccion: Tu Dirección
+  telefono: Tu Número de Teléfono
+  correo: Tu Correo Electrónico
+
+resumen: |
+  Soy un apasionado desarrollador de software con experiencia en varios lenguajes de programación y tecnologías web.
+
+experiencia_laboral:
+  - puesto: Desarrollador de Software
+    empresa: Empresa A
+    periodo: Enero 2018 - Presente
+    descripcion: Desarrollo y mantenimiento de aplicaciones web.
+  - puesto: Analista de Datos
+    empresa: Empresa B
+    periodo: Junio 2015 - Diciembre 2017
+    descripcion: Análisis y visualización de datos para la toma de decisiones.
+
+educacion:
+  - titulo: Licenciatura en Informática
+    institucion: Universidad XYZ
+    periodo: 2011 - 2015
+  - titulo: Maestría en Ciencias de la Computación
+    institucion: Universidad ABC
+    periodo: 2016 - 2018
+
+habilidades:
+  - Java
+  - Python
+  - HTML/CSS
+  - JavaScript
+  - Git/GitHub
+  - SQL
+
+proyectos:
+  - nombre: Proyecto A
+    descripcion: Desarrollo de una aplicación web para gestión de tareas.
+  - nombre: Proyecto B
+    descripcion: Implementación de un sistema de recomendación utilizando algoritmos de machine learning.
+
+idiomas:
+  - idioma: Inglés
+    nivel: Avanzado
+
+certificaciones:
+  - certificacion: Certificado de Desarrollador Web
+    institucion: Certifying Body
+    fecha: Julio 2019

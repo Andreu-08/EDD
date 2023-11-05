@@ -1,0 +1,16 @@
+personajes:
+  - nombre: "Nobita Nobi"
+    intereses:
+      - Viajar en el tiempo con la ayuda de Doraemon
+      - Resolver problemas y dificultades con las herramientas de Doraemon
+      - Jugar al béisbol con sus amigos
+      - Estudiar para mejorar en la escuela (aunque a veces le cueste)
+      - Pasar tiempo con su amiga Shizuka
+
+  - nombre: "Doraemon"
+    intereses:
+      - Ayudar a Nobita a través de la tecnología del siglo XXII
+      - Comer dorayakis (su comida favorita)
+      - Mostrar gadgets futuristas y herramientas mágicas a Nobita
+      - Prevenir que Nobita haga cosas tontas o que lo metan en problemas
+      - Pasar tiempo con Nobita y sus amigos en la época actual

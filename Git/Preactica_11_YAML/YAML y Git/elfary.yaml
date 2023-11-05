@@ -1,0 +1,21 @@
+nombre: "El Fary"
+profesion: "Artista del Espectáculo"
+descripcion: "El Fary, una leyenda del espectáculo español, conocido por su carisma, humor y amor por la vida nocturna. Siempre listo para una buena risa y una copa de vino."
+hobbies:
+  - "Cantar coplas en bares y tabernas"
+  - "Bailar flamenco con estilo propio"
+  - "Contar chistes y anécdotas en fiestas"
+  - "Coleccionar sombreros extravagantes"
+frases_célebres:
+  - "¡Viva la noche y las risas, amigos! Siempre encuentro la manera de convertir la tristeza en una canción alegre y una copa llena."
+  - "La vida es como una copla, a veces es graciosa, a veces es trágica, pero siempre hay que cantarla con pasión y humor."
+  - "Dicen que la juventud es un tesoro, pero yo digo que la verdadera riqueza está en tener amigos con los que compartir una buena carcajada y una cerveza fría."
+  - "Cuando el amor duele, canta. Cuando la risa llega, baila. Y cuando la vida te da limones, haz una copla divertida y comparte una sonrisa con el mundo."
+sitio_web: "http://elfary.es"
+redes_sociales:
+  - plataforma: "Twitter"
+    usuario: "ElFary_Oficial"
+  - plataforma: "Instagram"
+    usuario: "ElFary_Leyenda"
+  - plataforma: "Facebook"
+    usuario: "ElFaryFanClub"

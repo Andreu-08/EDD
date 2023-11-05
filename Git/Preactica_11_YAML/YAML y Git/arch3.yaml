@@ -1,0 +1,64 @@
+nombre: "John-117"
+titulo: "Jefe Maestro"
+experiencia:
+  - puesto: "Supersoldado SPARTAN-II"
+    organizacion: "UNSC (United Nations Space Command)"
+    duracion: "Desde la infancia hasta la actualidad"
+    descripcion: |
+      Líder del equipo SPARTAN-II, entrenado y mejorado genéticamente desde la infancia para proteger a la humanidad contra amenazas alienígenas y rebeliones internas. Ha participado en numerosas misiones de combate y ha demostrado habilidades excepcionales en estrategia, combate y liderazgo.
+
+  - puesto: "Comandante de la UNSC Infinity"
+    organizacion: "UNSC Infinity"
+    duracion: "Años recientes"
+    descripcion: |
+      Asignado como comandante de la UNSC Infinity, una nave de guerra avanzada y base móvil. Responsable de liderar operaciones militares y estratégicas contra enemigos del UNSC en todo el universo.
+
+habilidades:
+  - "Combate cuerpo a cuerpo"
+  - "Manejo experto de armas de fuego"
+  - "Tácticas de combate avanzadas"
+  - "Piloto habilidoso de naves y vehículos"
+  - "Liderazgo efectivo en el campo de batalla"
+  - "Adaptabilidad a entornos hostiles"
+
+educacion:
+  - titulo: "Entrenamiento SPARTAN-II"
+    institucion: "UNSC (United Nations Space Command)"
+    duracion: "Años de la infancia"
+    descripcion: |
+      Riguroso programa de entrenamiento y mejoramiento genético que desarrolló habilidades físicas y mentales sobresalientes, así como un fuerte sentido de deber y lealtad hacia el UNSC.
+
+proyectos_destacados:
+  - nombre: "Operación: Primer Envoltorio"
+    descripcion: |
+      Lideró una misión especial para infiltrarse en una estación espacial Covenant y recuperar información crucial sobre sus planes estratégicos. La misión fue un éxito y proporcionó datos valiosos para la defensa humana contra el Covenant.
+
+  - nombre: "Defensa de Reach"
+    descripcion: |
+      Jugó un papel fundamental en la defensa del planeta Reach contra una invasión Covenant. Coordinó las fuerzas terrestres y espaciales para retrasar el avance enemigo, permitiendo la evacuación de civiles y recursos valiosos.
+
+publicaciones:
+  - titulo: "Autobiografía del Jefe Maestro: Más Allá del Casco"
+    editorial: "UNSC Press"
+    publicacion: "Año XXXX"
+    descripcion: |
+      Detalles sobre sus experiencias, estrategias de combate y reflexiones personales sobre la vida como un supersoldado SPARTAN-II.
+
+certificaciones:
+  - certificacion: "Medalla de Honor del UNSC"
+    otorgada_por: "UNSC Alto Mando"
+    fecha: "Año XXXX"
+    descripcion: |
+      Reconocimiento por valentía excepcional y liderazgo en combate durante la batalla de [nombre de la batalla].
+
+referencias:
+  - nombre: "Cortana"
+    contacto: "cortana@unsc.ai"
+  - nombre: "Comandante Miranda Keyes"
+    contacto: "miranda.keyes@unsc.mil"
+
+intereses:
+  - "Exploración espacial"
+  - "Armas y tecnología militar avanzada"
+  - "Historia militar y estrategias de combate"
+  - "Prototipos de naves espaciales"
