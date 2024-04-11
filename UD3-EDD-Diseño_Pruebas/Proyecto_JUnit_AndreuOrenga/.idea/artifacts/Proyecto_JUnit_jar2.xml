@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="Proyecto_JUnit:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Proyecto_JUnit_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="Proyecto_JUnit.jar">
+        <element id="module-output" name="Proyecto_JUnit.main" />
+      </element>
+      <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.9.1" />
+      <element id="library" level="project" name="Gradle: org.junit.platform:junit-platform-engine:1.9.1" />
+      <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.9.1" />
+      <element id="library" level="project" name="Gradle: org.junit.platform:junit-platform-commons:1.9.1" />
+      <element id="library" level="project" name="Gradle: org.opentest4j:opentest4j:1.2.0" />
+      <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter:5.9.1" />
+      <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.1" />
+    </root>
+  </artifact>
+</component>

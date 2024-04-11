@@ -1,0 +1,14 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text></help_text><element><id>UMLActor</id><coordinates><x>1300</x><y>390</y><w>60</w><h>110</h></coordinates><panel_attributes>Actor</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>390</x><y>60</y><w>230</w><h>200</h></coordinates><panel_attributes>&lt;&lt;abstract&gt;&gt;
+Package::Vehicles
+
+--
+-id: Long
+_-ClassAttribute: Long_
+--
+#Operation(i: int): int
+/+AbstractOperation()/
+--
+Responsibilities
+-- Resp1
+*-- Resp2*</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>1380</x><y>310</y><w>140</w><h>70</h></coordinates><panel_attributes>Note..
+bg=blue</panel_attributes><additional_attributes></additional_attributes></element></diagram>
