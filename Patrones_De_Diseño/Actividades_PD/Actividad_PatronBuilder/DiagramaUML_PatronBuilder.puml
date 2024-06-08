@@ -1,0 +1,36 @@
+
+
+interface AutomovilBuilder {
+    buildMotor()
+    buildAsientos(int numeroAsientos)
+    buildColor(String color)
+    obtenerAutomovil() : Automovil
+}
+
+class SedanBuilder {
+    -automovil : Automovil
+    buildMotor()
+    buildAsientos(int numeroAsientos)
+    buildColor(String color)
+    obtenerAutomovil() : Automovil
+}
+
+class Automovil {
+    -motor : String
+    -asientos : int
+    -color : String
+    +setMotor(String motor)
+    +setAsientos(int asientos)
+    +setColor(String color)
+    +toString() : String
+}
+
+class Concesionario {
+    construirAutomovil(builder : AutomovilBuilder) : Automovil
+}
+
+AutomovilBuilder <|.. SedanBuilder
+Concesionario -> AutomovilBuilder : uses
+SedanBuilder -> Automovil : builds
+
+
